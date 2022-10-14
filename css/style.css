@@ -153,5 +153,9 @@ img {
     .steps .col{
         width: 100%;
     }
+    .why-us .col-left {
+        width: 100%;
+        margin: 20% 0%;
+    }
    
 }
